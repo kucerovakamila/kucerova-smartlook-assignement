@@ -1,0 +1,23 @@
+{
+  "name": "web-tester-interview-cypress-project",
+  "version": "1.0.0",
+  "description": "Basic cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartlook/web-tester-interview-cypress-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartlook/web-tester-interview-cypress-project/issues"
+  },
+  "homepage": "https://github.com/smartlook/web-tester-interview-cypress-project#readme",
+  "devDependencies": {
+    "cypress": "11.0.1",
+    "typescript": "4.8.4"
+  }
+}
