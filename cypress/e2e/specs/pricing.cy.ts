@@ -60,4 +60,6 @@ context('Pricing', () => {
     //it('bussiness plan, drop down field data history works', () => {})
     //it('startup plan, price is 2,239 when session limit is 25k is ', () => {})
     //it('startup plan, price is undefined when drop down field sessions limits is selected as "more"', () => {})
+    
+    //these^ are a remaning tests I wanted to do but didn't find time to. 
 })
